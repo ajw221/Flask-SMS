@@ -20,8 +20,8 @@ full_date = "{} at {} EST".format(current_date, current_time) # Full Format
 ### Time Column Formatting END   ### db.py
 
 ### Twilio Keys ### app.py
-account_sid = "AC7996640d6e1f1f1ae10567f28915bbd3"            # accSID
-auth_token = "d4b71e7955aa9939f53b47606f3f0281"               # authTok
+account_sid = "account SID here"                              # accSID
+auth_token = "authentication token here"                      # authTok
 client = Client(account_sid, auth_token)                      # creation
 ### Twilio Keys ### app.py
 
